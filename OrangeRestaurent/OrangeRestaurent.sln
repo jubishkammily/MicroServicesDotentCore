@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrontEnd", "FrontEnd", "{5B00A0E2-D1A4-4D85-8058-252E74F265B2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Orange.Web", "Orange.Web\Orange.Web.csproj", "{47E2BE08-070F-4F2E-A1CA-688BB14B600C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{8D21A212-72C4-4E16-AEA6-10BD48885100}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Orange.Services.ProductAPI", "Orange.Services.ProductAPI\Orange.Services.ProductAPI.csproj", "{6ECB988C-4229-487A-8BC8-A6470D9C7DB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orange.Services.Identity", "Orange.Services.Identity\Orange.Services.Identity.csproj", "{F6BBF417-FF27-48D2-80BC-F45136C283BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47E2BE08-070F-4F2E-A1CA-688BB14B600C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E2BE08-070F-4F2E-A1CA-688BB14B600C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E2BE08-070F-4F2E-A1CA-688BB14B600C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E2BE08-070F-4F2E-A1CA-688BB14B600C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ECB988C-4229-487A-8BC8-A6470D9C7DB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ECB988C-4229-487A-8BC8-A6470D9C7DB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ECB988C-4229-487A-8BC8-A6470D9C7DB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ECB988C-4229-487A-8BC8-A6470D9C7DB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6BBF417-FF27-48D2-80BC-F45136C283BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6BBF417-FF27-48D2-80BC-F45136C283BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6BBF417-FF27-48D2-80BC-F45136C283BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6BBF417-FF27-48D2-80BC-F45136C283BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{47E2BE08-070F-4F2E-A1CA-688BB14B600C} = {5B00A0E2-D1A4-4D85-8058-252E74F265B2}
+		{6ECB988C-4229-487A-8BC8-A6470D9C7DB9} = {8D21A212-72C4-4E16-AEA6-10BD48885100}
+		{F6BBF417-FF27-48D2-80BC-F45136C283BA} = {8D21A212-72C4-4E16-AEA6-10BD48885100}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E80627E6-5E3B-448D-B7F1-D7E3E19B4C25}
+	EndGlobalSection
+EndGlobal
