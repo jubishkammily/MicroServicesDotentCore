@@ -46,7 +46,7 @@ namespace Orange.Services.Identity
        .AddInMemoryApiScopes(SD.ApiScopes)
        .AddInMemoryClients(SD.Clients)
        .AddAspNetIdentity<ApplicationUser>();
-                
+
 
             services.AddScoped<IDBInitializer, DBInitializer>();
 

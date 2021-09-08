@@ -9,6 +9,9 @@ using System.Threading.Tasks;
 
 namespace Orange.Services.ShoppingCartAPI.Controllers
 {
+
+    [ApiController] 
+    [Route("api/cart")]
     public class CartAPIController : Controller
     {
         public readonly ICartRepository _cartRepository;   // this has been added through startup for dependency injection  

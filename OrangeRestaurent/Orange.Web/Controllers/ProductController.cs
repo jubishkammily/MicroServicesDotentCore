@@ -21,6 +21,7 @@ namespace Orange.Web.Controllers
         }
         public async Task<IActionResult> ProductIndex()
         {
+            var UserId = User.Claims.Where(u => u.Type == "sub")?.FirstOrDefault()?.Value;
             var acces_token = await HttpContext.GetTokenAsync("access_token");
             List<ProductDto> productDtoList = new List<ProductDto>();
 
