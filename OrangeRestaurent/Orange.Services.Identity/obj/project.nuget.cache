@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uOexDhczzZMSy7HJ3xh6k2F4KlB9qEVg4nNCtzWmdMKAK0xkm6oBoHrfyDk8EaumU8L0FBrV6URMOeiTWub8pA==",
+  "dgSpecHash": "TNJX4th/+RqxfuoteUOpy92HLdW/cz160sJJ32Aem5/2v3hotKxfbd3yybNnOcm/GT5LzTHs9V75D9fjRf6Enw==",
   "success": true,
-  "projectFilePath": "D:\\softwares programming\\DOTNET\\MicroServicesDotnet - Copy\\OrangeRestaurent\\Orange.Services.Identity\\Orange.Services.Identity.csproj",
+  "projectFilePath": "D:\\softwares programming\\DOTNET\\MicroServicesDotentCore\\OrangeRestaurent\\Orange.Services.Identity\\Orange.Services.Identity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jubis\\.nuget\\packages\\duende.identityserver\\5.2.2\\duende.identityserver.5.2.2.nupkg.sha512",
     "C:\\Users\\jubis\\.nuget\\packages\\duende.identityserver.aspnetidentity\\5.2.2\\duende.identityserver.aspnetidentity.5.2.2.nupkg.sha512",

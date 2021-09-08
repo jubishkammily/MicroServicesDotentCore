@@ -11,7 +11,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{8D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Orange.Services.ProductAPI", "Orange.Services.ProductAPI\Orange.Services.ProductAPI.csproj", "{6ECB988C-4229-487A-8BC8-A6470D9C7DB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orange.Services.Identity", "Orange.Services.Identity\Orange.Services.Identity.csproj", "{F6BBF417-FF27-48D2-80BC-F45136C283BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Orange.Services.Identity", "Orange.Services.Identity\Orange.Services.Identity.csproj", "{F6BBF417-FF27-48D2-80BC-F45136C283BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orange.Services.ShoppingCartAPI", "Orange.Services.ShoppingCartAPI\Orange.Services.ShoppingCartAPI.csproj", "{4B4999BB-AFE6-46A2-8CE8-546EED5E72F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,10 @@ Global
 		{F6BBF417-FF27-48D2-80BC-F45136C283BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6BBF417-FF27-48D2-80BC-F45136C283BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6BBF417-FF27-48D2-80BC-F45136C283BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B4999BB-AFE6-46A2-8CE8-546EED5E72F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B4999BB-AFE6-46A2-8CE8-546EED5E72F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B4999BB-AFE6-46A2-8CE8-546EED5E72F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B4999BB-AFE6-46A2-8CE8-546EED5E72F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +45,7 @@ Global
 		{47E2BE08-070F-4F2E-A1CA-688BB14B600C} = {5B00A0E2-D1A4-4D85-8058-252E74F265B2}
 		{6ECB988C-4229-487A-8BC8-A6470D9C7DB9} = {8D21A212-72C4-4E16-AEA6-10BD48885100}
 		{F6BBF417-FF27-48D2-80BC-F45136C283BA} = {8D21A212-72C4-4E16-AEA6-10BD48885100}
+		{4B4999BB-AFE6-46A2-8CE8-546EED5E72F5} = {8D21A212-72C4-4E16-AEA6-10BD48885100}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E80627E6-5E3B-448D-B7F1-D7E3E19B4C25}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xdwYdSzHvOdv9a6RG5pCljeYLnjjrzC01c/qiOZuVfI9EfHzZMCJpupK4KrCdbTJlu4UcpKdMeq+Wi8bQ5HOPQ==",
+  "dgSpecHash": "qdGTN9DrMOBudVnTTeOC+JLNeJqs3n3KNb58Wi19lldQ2ibYmjK8MqrCq8XUTHmJj3JkG9cgDZbQ3EjXPcgLsg==",
   "success": true,
-  "projectFilePath": "D:\\softwares programming\\DOTNET\\MicroServicesDotnet - Copy\\OrangeRestaurent\\Orange.Services.ProductAPI\\Orange.Services.ProductAPI.csproj",
+  "projectFilePath": "D:\\softwares programming\\DOTNET\\MicroServicesDotentCore\\OrangeRestaurent\\Orange.Services.ProductAPI\\Orange.Services.ProductAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jubis\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\jubis\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E36Yzc8IZvvNrptI/nHRLtTZQsr+hXI4c8WBV6Wk7PzY4j4Kjxd8xVam36QgDZsOsQ4WM0EQIxm4ezVdf74D+A==",
+  "dgSpecHash": "gzBu2micWOdD04nx1NE8oUL8aHtLca1lLvK6XBifJI2my/WgWnr7YPiSyACswWcvODE1fOSYNvftOujBocp4Xw==",
   "success": true,
-  "projectFilePath": "D:\\softwares programming\\DOTNET\\MicroServicesDotnet - Copy\\OrangeRestaurent\\Orange.Web\\Orange.Web.csproj",
+  "projectFilePath": "D:\\softwares programming\\DOTNET\\MicroServicesDotentCore\\OrangeRestaurent\\Orange.Web\\Orange.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

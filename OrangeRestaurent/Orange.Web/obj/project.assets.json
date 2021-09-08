@@ -2150,11 +2150,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\softwares programming\\DOTNET\\MicroServicesDotnet - Copy\\OrangeRestaurent\\Orange.Web\\Orange.Web.csproj",
+      "projectUniqueName": "D:\\softwares programming\\DOTNET\\MicroServicesDotentCore\\OrangeRestaurent\\Orange.Web\\Orange.Web.csproj",
       "projectName": "Orange.Web",
-      "projectPath": "D:\\softwares programming\\DOTNET\\MicroServicesDotnet - Copy\\OrangeRestaurent\\Orange.Web\\Orange.Web.csproj",
+      "projectPath": "D:\\softwares programming\\DOTNET\\MicroServicesDotentCore\\OrangeRestaurent\\Orange.Web\\Orange.Web.csproj",
       "packagesPath": "C:\\Users\\jubis\\.nuget\\packages\\",
-      "outputPath": "D:\\softwares programming\\DOTNET\\MicroServicesDotnet - Copy\\OrangeRestaurent\\Orange.Web\\obj\\",
+      "outputPath": "D:\\softwares programming\\DOTNET\\MicroServicesDotentCore\\OrangeRestaurent\\Orange.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

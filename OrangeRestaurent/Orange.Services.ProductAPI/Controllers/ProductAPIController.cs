@@ -1,4 +1,4 @@
-﻿using Mango.Services.ProductAPI.Models.Dto;
+﻿using Orange.Services.ProductAPI.Models.Dto;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Orange.Services.ProductAPI.Models.Dto;
@@ -22,7 +22,7 @@ namespace Orange.Services.ProductAPI.Controllers
             this._response = new ResponseDto();
         }
         [HttpGet]
-        [Authorize]
+        //[Authorize]
         public async Task<object> Get()
         {
             try
@@ -40,7 +40,7 @@ namespace Orange.Services.ProductAPI.Controllers
         }
 
         [HttpGet]
-        [Authorize]
+        //[Authorize]
         [Route("{id}")]
         public async Task<object> Get(int id)
         {

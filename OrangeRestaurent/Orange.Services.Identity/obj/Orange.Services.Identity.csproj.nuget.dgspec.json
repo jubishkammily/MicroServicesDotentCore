@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\softwares programming\\DOTNET\\MicroServicesDotnet - Copy\\OrangeRestaurent\\Orange.Services.Identity\\Orange.Services.Identity.csproj": {}
+    "D:\\softwares programming\\DOTNET\\MicroServicesDotentCore\\OrangeRestaurent\\Orange.Services.Identity\\Orange.Services.Identity.csproj": {}
   },
   "projects": {
-    "D:\\softwares programming\\DOTNET\\MicroServicesDotnet - Copy\\OrangeRestaurent\\Orange.Services.Identity\\Orange.Services.Identity.csproj": {
+    "D:\\softwares programming\\DOTNET\\MicroServicesDotentCore\\OrangeRestaurent\\Orange.Services.Identity\\Orange.Services.Identity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\softwares programming\\DOTNET\\MicroServicesDotnet - Copy\\OrangeRestaurent\\Orange.Services.Identity\\Orange.Services.Identity.csproj",
+        "projectUniqueName": "D:\\softwares programming\\DOTNET\\MicroServicesDotentCore\\OrangeRestaurent\\Orange.Services.Identity\\Orange.Services.Identity.csproj",
         "projectName": "Orange.Services.Identity",
-        "projectPath": "D:\\softwares programming\\DOTNET\\MicroServicesDotnet - Copy\\OrangeRestaurent\\Orange.Services.Identity\\Orange.Services.Identity.csproj",
+        "projectPath": "D:\\softwares programming\\DOTNET\\MicroServicesDotentCore\\OrangeRestaurent\\Orange.Services.Identity\\Orange.Services.Identity.csproj",
         "packagesPath": "C:\\Users\\jubis\\.nuget\\packages\\",
-        "outputPath": "D:\\softwares programming\\DOTNET\\MicroServicesDotnet - Copy\\OrangeRestaurent\\Orange.Services.Identity\\obj\\",
+        "outputPath": "D:\\softwares programming\\DOTNET\\MicroServicesDotentCore\\OrangeRestaurent\\Orange.Services.Identity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

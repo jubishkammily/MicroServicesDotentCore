@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\softwares programming\\DOTNET\\MicroServicesDotnet - Copy\\OrangeRestaurent\\Orange.Services.ProductAPI\\Orange.Services.ProductAPI.csproj": {}
+    "D:\\softwares programming\\DOTNET\\MicroServicesDotentCore\\OrangeRestaurent\\Orange.Services.ProductAPI\\Orange.Services.ProductAPI.csproj": {}
   },
   "projects": {
-    "D:\\softwares programming\\DOTNET\\MicroServicesDotnet - Copy\\OrangeRestaurent\\Orange.Services.ProductAPI\\Orange.Services.ProductAPI.csproj": {
+    "D:\\softwares programming\\DOTNET\\MicroServicesDotentCore\\OrangeRestaurent\\Orange.Services.ProductAPI\\Orange.Services.ProductAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\softwares programming\\DOTNET\\MicroServicesDotnet - Copy\\OrangeRestaurent\\Orange.Services.ProductAPI\\Orange.Services.ProductAPI.csproj",
+        "projectUniqueName": "D:\\softwares programming\\DOTNET\\MicroServicesDotentCore\\OrangeRestaurent\\Orange.Services.ProductAPI\\Orange.Services.ProductAPI.csproj",
         "projectName": "Orange.Services.ProductAPI",
-        "projectPath": "D:\\softwares programming\\DOTNET\\MicroServicesDotnet - Copy\\OrangeRestaurent\\Orange.Services.ProductAPI\\Orange.Services.ProductAPI.csproj",
+        "projectPath": "D:\\softwares programming\\DOTNET\\MicroServicesDotentCore\\OrangeRestaurent\\Orange.Services.ProductAPI\\Orange.Services.ProductAPI.csproj",
         "packagesPath": "C:\\Users\\jubis\\.nuget\\packages\\",
-        "outputPath": "D:\\softwares programming\\DOTNET\\MicroServicesDotnet - Copy\\OrangeRestaurent\\Orange.Services.ProductAPI\\obj\\",
+        "outputPath": "D:\\softwares programming\\DOTNET\\MicroServicesDotentCore\\OrangeRestaurent\\Orange.Services.ProductAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
